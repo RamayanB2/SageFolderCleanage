@@ -5,8 +5,8 @@ Português: Aplicativo java para limpeza de arquivos do servidor SAGE2 após uso
 
 ## Getting Started
 
-English: You only need the .jar above. Download it and click twice to execute.
-Português: Você só precisa do .jar acima. Baixe-o e clique duas vezes para rodar.
+English: You only need the .jar inside teh "dist" folder. Download it and click twice to execute.
+Português: Você só precisa do .jar dentro da pasta "dist". Baixe-o e clique duas vezes para rodar.
 
 ### Prerequisites
 
