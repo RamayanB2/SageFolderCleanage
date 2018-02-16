@@ -59,7 +59,7 @@ public class SageFolderCleanage {
     
     public static void deletePassword(){
         try{
-        Files.deleteIfExists(Paths.get(file1));
+        Files.deleteIfExists(Paths.get(path+file1));
         }catch(Exception e){
             JOptionPane.showMessageDialog(null, "Ocorreu algum erro");
         }
